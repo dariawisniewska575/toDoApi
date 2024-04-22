@@ -1,0 +1,9 @@
+*.csproj.user
+**/obj
+**/bin
+ToDoApi/**/bin
+ToDoApi/**/obj
+ToDoApi/**/.idea
+ToDoApi/**/.vs
+.idea/
+.vs/
